@@ -1,1 +1,2 @@
-www.patika.dev Not Hesaplama 
+https://app.patika.dev/tubis
+Not Hesaplama 
